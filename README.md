@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @danxharvey
-- 👀 I’m interested in Artificial Intelligence and Human AI Interaction in an applied environment
-- 🌱 I’m currently learning Kalman Filters and Tracking
-- 💞️ I’m looking to collaborate on anything
 - 📫 Reach me at danxharvey@hotmail.com
 
 <!---
